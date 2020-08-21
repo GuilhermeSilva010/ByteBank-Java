@@ -1,5 +1,5 @@
 package br.com.bank.test;
-
+import br.com.bank.modelo.*;
 import br.com.bank.modelo.Cliente;
 import br.com.bank.modelo.Conta;
 
